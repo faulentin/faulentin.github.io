@@ -133,6 +133,6 @@ p {
   border-radius: 50%;
 }
 
-.post-container:nth-child(uneven) {
+.post-container:nth-child(odd) {
   background-color: #f2f2f2;
 }
